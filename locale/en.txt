@@ -81,4 +81,4 @@ HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-ali
 ### Description
 
 ### Title
-tour.name = Untitled 48
+tour.name = Balai Sudirman
